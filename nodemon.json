@@ -1,0 +1,4 @@
+{
+    "wacth":["views","public","routes"],
+    "ext":"js,ejs,css"
+}
